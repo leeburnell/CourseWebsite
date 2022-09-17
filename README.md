@@ -6,3 +6,5 @@ Technology used:
 - HTML
 - CSS
 - JavaScript
+
+The aim is to replicate an educational website.
